@@ -1,6 +1,6 @@
 <?php
 /*
-
+This is a comment from benjamin
 This version has draft comments as we try to understand the code and add useful comments - JN 14.2.17
 
 "Peace News Ecosystem" is a CMS developed to allow small groups with no tech' expertise to have an internet presence. Its USP is freedom from choice. You can see one installation of Peace News Ecosystem at https://zylum.org/
